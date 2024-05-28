@@ -1,0 +1,28 @@
+{
+  "name": "final-year-project",
+  "version": "1.0.0",
+  "description": "Computer Science Final Year Project. Comic-book catalogue website for Room 237 Comics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacAkin/final-year-project.git"
+  },
+  "author": "Isaac Akinsanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacAkin/final-year-project/issues"
+  },
+  "homepage": "https://github.com/IsaacAkin/final-year-project#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-portsoc": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
